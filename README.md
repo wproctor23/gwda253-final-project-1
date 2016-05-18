@@ -1,7 +1,7 @@
 # GWDA253 Final Project
 
 ## Purpose 
-Students will show advanced knowledge of how to create a Custom theme in WordPress using modern web development tools. This is also an exercise in `team building`, `trouble shooting` and `communication` as well as students displaying the ability to use current knowledge to adapt and build an application with new found tools and components that they ascertained out how to use themselves.
+Students will show advanced knowledge of how to create a Custom theme in WordPress using modern web development tools. This is also an exercise in `team building`, `trouble shooting` and `communication` as well as students displaying the ability to use current knowledge to adapt and build an application with new found tools and components that they ascertained how to use themselves.
 
 ## Goal
 [Convert this Github repository](https://github.com/kingluddite/bhs-static) into a WordPress custom theme. 
